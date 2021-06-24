@@ -1,6 +1,5 @@
 # Lenovo Smart Clock Hacking
 
-
 ## Progress
 | Name  | Status |
 | ------------- | ------------- |
@@ -11,6 +10,10 @@
 | Boot  | ❓ Device won't boot custom/modified firmware, possibly AVB related  |
 | ADB | 🛑 Blocked in device firmware |
 | Fastboot | ☑️ Available with an USB A->A Cable |
+## Notes
+- [Android Verified Boot](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/AVB.md)
+- [Debugging the device](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/Debug.md)
+- [Flashing the device](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/Flashing.md)
 ## Resources
 
 - [deadman96385's XDA Thread](https://forum.xda-developers.com/t/lenovo-smart-clock-bootloader-avb-unlock-firmware-region-changer-kernel-source.4130295/)
