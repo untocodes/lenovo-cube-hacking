@@ -17,3 +17,4 @@ fastboot oem at-lock-vboot!
 ## Resources
 - [Google's AVB 2.0 Docs](https://android.googlesource.com/platform/external/avb/+/master/README.md)
 - [General reference into Android Security](https://github.com/doridori/Android-Security-Reference)
+- [AVB EXT (eXtension) for Android Things](https://android.googlesource.com/platform/external/avb/+/147b08db62f068c4fa76c3629f83d4282b614039)
