@@ -14,3 +14,6 @@ The AVB of the device can be relocked by running the following command after boo
 ```sh
 fastboot oem at-lock-vboot!
 ```
+## Resources
+- [Google's AVB 2.0 Docs](https://android.googlesource.com/platform/external/avb/+/master/README.md)
+- [General reference into Android Security](https://github.com/doridori/Android-Security-Reference)
