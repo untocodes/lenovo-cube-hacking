@@ -12,7 +12,7 @@
 | Fastboot | ☑️ Available with an USB A->A Cable |
 ## Notes
 - [Flashing the device](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/Flashing.md)
-- [Debugging the device](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/Debug.md)
+- [AVB and unlocking](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/AVB.md)
 ## Resources
 
 - [deadman96385's XDA Thread](https://forum.xda-developers.com/t/lenovo-smart-clock-bootloader-avb-unlock-firmware-region-changer-kernel-source.4130295/)
