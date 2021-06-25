@@ -1,5 +1,7 @@
 # AVB on the Lenovo Smart Clock
 
+## Resources
+- [Explanation on how the AVB works on an Android Things device](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/avb/EXT.md)
 ## Unlocking and locking the AVB
 
 ### Unlocking
