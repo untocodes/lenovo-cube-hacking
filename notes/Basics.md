@@ -8,7 +8,7 @@
 | STORAGE | 8GB eMMC |
 | SCREEN | 480 x 800 IPS Touch Screen |
 
-* This CPU is also known as the MT8516 (same but no GPU), or the MT8167S (same chip, even appears on FCC documents)
+* This CPU is also known as the MT8516 (same but no GPU), or the MT8167A (same chip, even appears on FCC documents for the xiaomi and lenovo)
 
 ## Related devices
 - [Xiaomi Mi Smart Clock](https://www.mi.com/global/product/mi-smart-clock/overview) (Runs the same software and probably uses the same IC)
