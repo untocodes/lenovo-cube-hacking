@@ -11,6 +11,7 @@
 | ADB | 🛑 Blocked in device firmware |
 | Fastboot | ☑️ Available with an USB A->A Cable |
 ## Notes
+- [Basic information about the Smart Clock and related devices](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/Basics.md)
 - [Flashing the device](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/Flashing.md)
 - [AVB and unlocking](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/AVB.md)
 ## Resources
