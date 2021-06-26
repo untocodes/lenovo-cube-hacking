@@ -18,5 +18,7 @@
 ## Hidden Menus
 A debug menu can be enabled by modifying the factory props included in the factory.img file and adding the line below to the end of the file.
 ```sh
-ro.debuggable=1```
-TODO: Images here
+ro.debuggable=1
+```
+![About Device Menu](https://raw.githubusercontent.com/untocodes/lenovo-cube-hacking/main/notes/images/debug_settings1.jpg)
+![Debug Settings Menu](https://raw.githubusercontent.com/untocodes/lenovo-cube-hacking/main/notes/images/debug_settings2.jpg)
