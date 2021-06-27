@@ -1,5 +1,5 @@
 # AVB Android Things eXtension
-AVB-EXT is an extension to the AVB specification containing features used on Android Things devices.
+AVB-ATX is an extension to the AVB specification containing features used on Android Things devices.
 
 ## Terminology
 | Name  | Explanation |
@@ -48,4 +48,4 @@ Generates AVB metadata for the vbmeta image.
 | google_key_version | The version of the Google Signing Key used in the associated vbmeta image. |
 
 ## Credits/Resources
-- [Google AVB EXT/avbtool sourcecode](https://android.googlesource.com/platform/external/avb/+/147b08db62f068c4fa76c3629f83d4282b614039)
+- [Google AVB ATX/avbtool sourcecode](https://android.googlesource.com/platform/external/avb/+/147b08db62f068c4fa76c3629f83d4282b614039)
