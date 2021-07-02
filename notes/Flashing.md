@@ -13,5 +13,5 @@ To get the device to boot into fastboot mode you need to do the following:
 
 ## SP Flash Tool
 
-- The device seems to be affected by a [Mediatek BootROM exploit](https://github.com/MTK-bypass/bypass_utility) which would allow us to flash the device fully without the need for an SLA/DAA.
-- The device has been successfully gotten to interact with SP Flash Tool after running the exploit but since we do not have an Scatter File for the device we couldn't try it any futher.
+- The device is affected by a [Mediatek BootROM exploit](https://github.com/MTK-bypass/bypass_utility) which allows us to flash/dump the device fully without the need for an SLA/DAA.
+- The files for SP-Flash Tool have been included in the sp-flash directory at the root of this repository.
