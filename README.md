@@ -6,7 +6,7 @@
 | AVB Keys  | ☑️ Leaked/Obtained  |
 | Firmware  | ☑️ Leaked/Obtained  |
 | Kernel source  | ☑️ Available on Lenovo's Site  |
-| Debug output  | ❓ No obvious debug test points or MTK Serial Port over USB  |
+| Debug output  | ❓ Lenovo has an special debug cable for sale, most likely using usb 3 pins  |
 | Boot  | ❓ Device won't boot custom/modified firmware, possibly AVB related  |
 | ADB | 🛑 Blocked in device firmware |
 | Fastboot | ☑️ Available with an USB A->A Cable |
