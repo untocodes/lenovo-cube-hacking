@@ -6,15 +6,16 @@
 | AVB Keys  | ☑️ Leaked/Obtained  |
 | Firmware  | ☑️ Leaked/Obtained  |
 | Kernel source  | ☑️ Available on Lenovo's Site  |
-| Debug output  | ❓ Lenovo has an special debug cable for sale, most likely using usb 3 pins  |
+| Debug output  | ☑️ [UART](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/USB.md) |
 | Boot  | ❓ Device won't boot custom/modified firmware, possibly AVB related  |
-| ADB | 🛑 Blocked in device firmware |
+| ADB | ☑️ [ADB](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/USB.md) |
 | Fastboot | ☑️ Available with an USB A->A Cable |
 | SP Flash Tool | ☑️ Working with BootROM exploit! | 
 ## Notes
 - [Basic information about the Smart Clock and related devices](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/Basics.md)
 - [Flashing the device](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/Flashing.md)
 - [AVB and unlocking](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/AVB.md)
+- [USB Pinout](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/USB.md)
 ## Resources
 
 - [deadman96385's XDA Thread](https://forum.xda-developers.com/t/lenovo-smart-clock-bootloader-avb-unlock-firmware-region-changer-kernel-source.4130295/)
