@@ -34,7 +34,12 @@ This device is the opposite, ID pin is pulled low internally and needs to be pul
 On a standard build this will show the bootlog up until EL3 handover to the kernel and then no more.
 On debug builds it will provide a shell.
 
-
+## Serial console
+You can access an serial console as root by enabling it with fastboot.
+After enabling, open the serial connection and you should get a shell.
+```sh
+fastboot p2u on
+```
 ## ADB
 
 On the standard rom, ADB is only enabled when AVB is unlocked:
