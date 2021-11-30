@@ -7,10 +7,11 @@
 | Firmware  | ☑️ Leaked/Obtained  |
 | Kernel source  | ☑️ Available on Lenovo's Site  |
 | Debug output  | ☑️ [UART](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/USB.md) |
-| Boot  | ❓ Device won't boot custom/modified firmware, possibly AVB related  |
+| Boot  | ☑️ Boots custom images with patched LK.  |
 | ADB | ☑️ [ADB](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/USB.md) |
 | Fastboot | ☑️ Available with an USB A->A Cable |
 | SP Flash Tool | ☑️ Working with BootROM exploit! | 
+| TWRP | ☑️ WIP |
 ## Notes
 - [Basic information about the Smart Clock and related devices](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/Basics.md)
 - [Flashing the device](https://github.com/untocodes/lenovo-cube-hacking/blob/main/notes/Flashing.md)
